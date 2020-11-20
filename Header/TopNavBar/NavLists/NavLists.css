@@ -1,0 +1,40 @@
+.notification {
+  display: flex;
+  color: white;
+  text-decoration: none;
+  padding: 0px 19px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+.notification .badge {
+  padding: 2px 9px;
+  border-radius: 50%;
+  background-color: #2c3e8f;
+  color: white;
+}
+
+.NavlistItems {
+  list-style-type: none;
+  display: flex;
+  margin-left: 65% !important;
+  margin-top: 2% !important;
+  padding: 2% !important;
+}
+.NavlistItems li {
+  margin-right: 15px;
+}
+
+.font_color {
+  color: grey !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+  font-size: 20px !important;
+}
+
+.font-size {
+  font-size: 10px !important;
+}

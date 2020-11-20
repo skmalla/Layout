@@ -1,0 +1,137 @@
+.sidenav---sidenav---_2tBP.sidenav---expanded---1KdUL {
+  min-width: 262px !important;
+  border-right-style: solid;
+  transition: unset;
+}
+.sidenav---sidenav---_2tBP.sidenav---expanded---1KdUL a {
+  text-decoration: none;
+  font-size: 16px;
+  padding: 13px 56px 13px 1px;
+}
+
+.sidenav---collapsed---LQDEv
+  .fixed_position
+  .sidenav---highlighted---oUx9u
+  .sidenav---navitem---9uL5T {
+  width: 70px !important;
+}
+.sidenav---sidenav---_2tBP.sidenav---expanded---1KdUL a {
+  padding: 0px !important;
+}
+.sidenav---expanded---1KdUL {
+  position: fixed;
+}
+.sidenav---sidenav-toggle---1KRjR {
+  float: inherit !important;
+  margin-top: 22px !important;
+}
+.sidenav---sidenav-toggle---1KRjR .sidenav---icon-bar---u1f02 {
+  background-color: #2e89bc !important;
+}
+.sidenav---navicon---3gCRo a {
+  font-size: 19px !important;
+  padding: 20px;
+}
+
+.sidenav---sidenav-nav---3tvij
+  > .sidenav---sidenav-navitem---uwIJ-
+  > .sidenav---navitem---9uL5T {
+  height: 56px !important;
+}
+
+.sidenav---sidenav-nav---3tvij {
+  float: inherit !important;
+  width: 19.5% !important;
+}
+.sidenav---sidenav---_2tBP {
+  position: fixed !important;
+}
+.sidenav---sidenav-nav---3tvij
+  > .sidenav---sidenav-navitem---uwIJ-.sidenav---highlighted---oUx9u
+  > .sidenav---navitem---9uL5T {
+  cursor: default;
+  width: 100%;
+}
+.sidenav---sidenav-nav---3tvij > .sidenav---sidenav-navitem---uwIJ- {
+  width: 100%;
+}
+input,
+optgroup,
+select,
+textarea {
+  font-family: "Roboto", sans-serif;
+}
+
+.sidenav---sidenav-nav---3tvij
+  > .sidenav---sidenav-navitem---uwIJ-
+  > .sidenav---navitem---9uL5T
+  .sidenav---navicon---3gCRo {
+  opacity: unset !important;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+.mySidenav1 {
+  width: 250px;
+}
+.mySidenav2 {
+  width: 0px;
+}
+.blue {
+  color: blue;
+}
+.sidenav---navitem---9uL5T .sidenav---navtext---1AE_f a {
+  width: 138px !important;
+  display: block !important;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+/* Fixed sidenav, full height */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
